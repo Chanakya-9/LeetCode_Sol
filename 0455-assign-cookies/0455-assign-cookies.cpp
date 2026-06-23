@@ -10,17 +10,16 @@ public:
         int n = g.size();
         int m = s.size();
 
-        int ans = 0;
+        // int ans = 0;
 
         while (pg < n && ps < m) {
             if(s[ps]>=g[pg]){
-                ans++;
                 ps++;
                 pg++;
             }else{
                 ps++;
             }
         }
-        return ans;
+        return pg;
     }
 };
