@@ -1,22 +1,18 @@
 class Solution {
 public:
     int findLongestChain(vector<vector<int>>& pairs) {
-        vector<pair<int, int>> p;
-        int n = pairs.size();
-        for (int i = 0; i < n; i++) {
-            p.push_back({pairs[i][1], pairs[i][0]});
-        }
-        sort(p.begin(), p.end());
-        int ans = 0;
+        sort(pairs.begin(), pairs.end(),
+             [](auto& a, auto& b) { return a[1] < b[1]; });
 
-        int time = -2000;
-        for (auto x : p) {
-            if (x.second > time) {
+        int ans = 0;
+        int end = INT_MIN;
+
+        for (auto& p : pairs) {
+            if (p[0] > end) {
                 ans++;
-                time = x.first;
+                end = p[1];
             }
         }
-
         return ans;
     }
 };
