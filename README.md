@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0231-power-of-two) |
 | [2527-find-xor-beauty-of-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2527-find-xor-beauty-of-array) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
