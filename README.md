@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0912-sort-an-array) |
 | [2105-watering-plants-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2105-watering-plants-ii) |
 | [2527-find-xor-beauty-of-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2527-find-xor-beauty-of-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Trie
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
