@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0912-sort-an-array) |
 | [2105-watering-plants-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2105-watering-plants-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
