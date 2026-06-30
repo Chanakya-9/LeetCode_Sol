@@ -4,7 +4,9 @@ public:
         vector<int> freq(3, 0);
         int left = 0, ans = 0;
 
-        for (int right = 0; right < s.size(); right++) {
+        int n=s.size();
+
+        for (int right = 0; right < n; right++) {
             freq[s[right] - 'a']++;
 
             while (freq[0] && freq[1] && freq[2]) {
