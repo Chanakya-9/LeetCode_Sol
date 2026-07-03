@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2527-find-xor-beauty-of-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3620-network-recovery-pathways](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0912-sort-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0646-maximum-length-of-pair-chain) |
+| [3620-network-recovery-pathways](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -159,8 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
