@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0455-assign-cookies) |
 | [2105-watering-plants-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2105-watering-plants-ii) |
 ## Greedy
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
