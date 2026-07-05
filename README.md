@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0231-power-of-two) |
 | [2527-find-xor-beauty-of-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2527-find-xor-beauty-of-array) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3700-number-of-zigzag-arrays-ii) |
