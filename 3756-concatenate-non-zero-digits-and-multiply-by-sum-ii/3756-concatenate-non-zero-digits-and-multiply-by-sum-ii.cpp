@@ -8,7 +8,7 @@ public:
         vector<int> digits;
         vector<int> idx(n + 1);
 
-        // idx[i] = number of non-zero digits before index i
+        
         int cnt = 0;
         for (int i = 0; i < n; i++) {
             idx[i] = cnt;
@@ -21,15 +21,15 @@ public:
 
         int k = digits.size();
 
-        // powers of 10
+       
         vector<long long> pow10(k + 1, 1);
         for (int i = 1; i <= k; i++)
             pow10[i] = (pow10[i - 1] * 10) % MOD;
 
-        // prefHash[i] = value of first i non-zero digits
+       
         vector<long long> prefHash(k + 1, 0);
 
-        // prefSum[i] = sum of first i non-zero digits
+        
         vector<long long> prefSum(k + 1, 0);
 
         for (int i = 0; i < k; i++) {
