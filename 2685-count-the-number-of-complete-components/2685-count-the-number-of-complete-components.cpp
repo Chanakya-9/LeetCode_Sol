@@ -18,7 +18,7 @@ public:
                 vector<int> q;
                 q.push_back(i);
                 vis[i] = true;
-                
+
                 size_t h = 0;
                 while (h < q.size()) {
                     int curr = q[h++];
