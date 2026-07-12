@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0912-sort-an-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1331-rank-transform-of-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1584-min-cost-to-connect-all-points) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3532-path-existence-queries-in-a-graph-i) |
