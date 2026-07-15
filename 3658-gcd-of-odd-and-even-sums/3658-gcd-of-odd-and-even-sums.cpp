@@ -4,11 +4,11 @@ public:
         int odd = n*n;
         int even = n*(n-1);
 
-        for(int i = min(odd,even);i>0;i--){
-            if(!(odd%i)&&!(even%i)){
-                return i;
-            }
-        }
-        return 1;
+        // for(int i = min(odd,even);i>0;i--){
+        //     if(!(odd%i)&&!(even%i)){
+        //         return i;
+        //     }
+        // }
+        return  gcd(even,odd);
     }
 };
