@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0912-sort-an-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1260-shift-2d-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1331-rank-transform-of-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1584-min-cost-to-connect-all-points) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1260-shift-2d-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1260-shift-2d-grid) |
 | [2105-watering-plants-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2105-watering-plants-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
