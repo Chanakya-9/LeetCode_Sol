@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maxActiveSectionsAfterTrade(string s) {
+    int maxActiveSectionsAfterTrade(string& s) {
         vector<int> zeros;
         int n = s.size();
         int curr = 0;
@@ -32,6 +32,6 @@ public:
         }
         return ans+maxi;
 
-
     }
 };
+
