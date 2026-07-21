@@ -22,17 +22,17 @@ public:
 class Solution {
 public:
 
-    unordered_set<int> check;
+    // unordered_set<int> check;
     unordered_map<int,Node*> mp;
     Node* cloneGraph(Node* node) {
         if(node==NULL){
             return node;
         }
-        if(check.count(node->val)){
+        if(mp.count(node->val)){
             return mp[node->val];
         }
         Node* head=new Node(node->val);
-        check.insert(head->val);
+        // check.insert(head->val);
         mp[head->val]=head;
 
         for(auto nei:node->neighbors){
