@@ -18,6 +18,9 @@ public:
                 curr = 0;
             }
         }
+        if(ans==n){
+            return ans;
+        }
 
         if (curr > 0) {
             zeros.push_back(curr);
