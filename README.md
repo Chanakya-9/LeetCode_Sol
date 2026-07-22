@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0912-sort-an-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1301-number-of-paths-with-max-score) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0133-clone-graph) |
+| [0542-01-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0542-01-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3286-find-a-safe-walk-through-a-grid) |
