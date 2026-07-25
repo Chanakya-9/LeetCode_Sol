@@ -2,24 +2,20 @@ class Solution {
 public:
     int maxProduct(int n) {
         string s = to_string(n);
-
-        vector<int> freq(10, 0);
+        int max1 = 0;
+        int max2 = 0;
 
         for (auto c : s) {
-            freq[c - '0']++;
-        }
+            int val = c - '0';
+            if (max1 < val) {
+                max2 = max1;
+                max1 = val;
 
-        int ans = 1;
-        int cnt = 2;
+            } else {
 
-        for (int i = 9; i >= 0 && cnt; i--) {
-            while (freq[i] && cnt) {
-                ans *= i;
-                freq[i]--;
-                cnt--;
+                max2 = max(max2, val);
             }
         }
-
-        return ans;
+        return max1 * max2;
     }
 };
