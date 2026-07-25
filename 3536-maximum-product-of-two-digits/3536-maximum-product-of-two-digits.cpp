@@ -1,21 +1,27 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        string s = to_string(n);
-        int max1 = 0;
-        int max2 = 0;
 
-        for (auto c : s) {
-            int val = c - '0';
-            if (max1 < val) {
-                max2 = max1;
-                max1 = val;
+        if (n == 0) {
+            return 0;
+        }
 
-            } else {
+        int mx1 = 0;
+        int mx2 = 0;
 
-                max2 = max(max2, val);
+        while (n) {
+
+            int d = n % 10;
+            n /= 10;
+
+            if (d >= mx1) {
+                mx2 = mx1;
+                mx1 = d;
+            } else if (d > mx2) {
+                mx2 = d;
             }
         }
-        return max1 * max2;
+
+        return mx1 * mx2;
     }
 };
