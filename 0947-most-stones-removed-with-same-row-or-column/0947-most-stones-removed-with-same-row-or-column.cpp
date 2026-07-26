@@ -1,46 +1,40 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>> &gp, vector<int> &vis, int src) {
+    unordered_map<int, int> par;
 
-        vis[src] = true;
+    int find(int x) {
+        if (!par.count(x)) {
+            par[x] = x;
+        }
 
-        for (auto nei : gp[src]) {
-            if (!vis[nei]) {
-                dfs(gp, vis, nei);
-            }
+        if (par[x] == x) {
+            return x;
+        }
+
+        return par[x] = find(par[x]);
+    }
+
+    void uni(int a, int b) {
+        a = find(a);
+        b = find(b);
+
+        if (a != b) {
+            par[a] = b;
         }
     }
 
     int removeStones(vector<vector<int>>& stones) {
 
-        int n = stones.size();
-
-        vector<vector<int>> gp(n);
-
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-
-                if (stones[i][0] == stones[j][0] ||
-                    stones[i][1] == stones[j][1]) {
-
-                    gp[i].push_back(j);
-                    gp[j].push_back(i);
-                }
-            }
+        for (auto &s : stones) {
+            uni(s[0], s[1] + 10001);
         }
 
-        vector<int> vis(n, false);
+        unordered_set<int> comp;
 
-        int comp = 0;
-
-        for (int i = 0; i < n; i++) {
-
-            if (!vis[i]) {
-                comp++;
-                dfs(gp, vis, i);
-            }
+        for (auto &s : stones) {
+            comp.insert(find(s[0]));
         }
 
-        return n - comp;
+        return stones.size() - comp.size();
     }
 };
