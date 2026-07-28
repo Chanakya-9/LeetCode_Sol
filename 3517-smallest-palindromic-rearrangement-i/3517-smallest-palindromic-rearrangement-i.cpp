@@ -19,8 +19,8 @@ public:
                 if(freq[p]>1){
                     s[i]='a'+p;
                     s[n-1-i]='a'+p;
-                    freq[p]--;
-                    freq[p]--;
+                    freq[p] -=2;
+                    
                     break;
                 }else if(freq[p]==1){
                     solo = p;
