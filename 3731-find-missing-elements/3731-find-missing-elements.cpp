@@ -6,12 +6,12 @@ public:
         int mini=nums[0];
         int maxi=nums[n-1];
         unordered_set<int> st (nums.begin(),nums.end());
-        vector<int> ans;
+        nums={};
         for( int i= mini+1;i<maxi;i++){
             if(st.count(i)==0){
-                ans.push_back(i);
+                nums.push_back(i);
             }
         }
-        return ans;
+        return nums;
     }
 };
