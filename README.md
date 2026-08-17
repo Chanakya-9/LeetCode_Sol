@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1584-min-cost-to-connect-all-points) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1563-stone-game-v) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1563-stone-game-v) |
 | [2527-find-xor-beauty-of-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2527-find-xor-beauty-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3312-sorted-gcd-pair-queries) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1563-stone-game-v) |
 ## Manacher
 |  |
 | ------- |
