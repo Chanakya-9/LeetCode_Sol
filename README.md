@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2105-watering-plants-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2527-find-xor-beauty-of-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2527-find-xor-beauty-of-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String Matching
 |  |
