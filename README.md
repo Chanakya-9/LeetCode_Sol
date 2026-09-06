@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0516-longest-palindromic-subsequence) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1358-number-of-substrings-containing-all-three-characters) |
