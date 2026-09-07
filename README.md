@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0940-distinct-subsequences-ii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0516-longest-palindromic-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1927-sum-game) |
