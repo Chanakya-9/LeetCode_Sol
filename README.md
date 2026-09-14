@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1563-stone-game-v) |
@@ -466,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
