@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0856-score-of-parentheses) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0785-is-graph-bipartite) |
