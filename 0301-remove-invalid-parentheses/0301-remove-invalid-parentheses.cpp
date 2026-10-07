@@ -1,5 +1,4 @@
 class Solution {
-private:
     std::vector<std::string> result;
     bool isValid(const std::string& str) {
         int count = 0;
