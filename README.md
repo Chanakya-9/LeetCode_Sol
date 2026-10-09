@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0836-rectangle-overlap) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1260-shift-2d-grid) |
 | [2105-watering-plants-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2105-watering-plants-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0516-longest-palindromic-subsequence) |
