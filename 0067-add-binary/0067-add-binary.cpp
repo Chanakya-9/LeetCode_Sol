@@ -9,9 +9,11 @@ public:
             int sum = carry;
             if (i >= 0) sum += a[i--] - '0';
             if (j >= 0) sum += b[j--] - '0';
-            ans = char((sum % 2) + '0') + ans;
+            // ans = char((sum % 2) + '0') + ans;
+            ans.push_back(char((sum % 2) + '0'));
             carry = sum / 2;
         }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
