@@ -5,13 +5,10 @@ public:
             return "";
         }
         string ans = "";
-        int nine = sum / 9;
+        int n = sum / 9;
         int left = sum % 9;
 
-        while (nine--) {
-            ans.push_back('9');
-            num--;
-        }
+        ans.append(n, '9'); num -= n;
 
         if (left) {
             ans.push_back('0' + left);
