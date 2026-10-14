@@ -6,7 +6,7 @@ public:
         }
         string ans = "";
         int nine = sum / 9;
-        int left = sum - (nine * 9);
+        int left = sum % 9;
 
         while (nine--) {
             ans.push_back('9');
