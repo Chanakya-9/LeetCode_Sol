@@ -1,10 +1,10 @@
 class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
-        string ans = "";
         if (9 * num < sum) {
-            return ans;
+            return "";
         }
+        string ans = "";
         int nine = sum / 9;
         int left = sum - (nine * 9);
 
