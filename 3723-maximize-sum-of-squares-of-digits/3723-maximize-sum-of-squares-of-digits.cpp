@@ -15,9 +15,7 @@ public:
             num--;
         }
 
-        while (num--) {
-            ans.push_back('0');
-        }
+        ans.append(num, '0');
 
         return ans;
     }
