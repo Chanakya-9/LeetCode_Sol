@@ -8,7 +8,6 @@ public:
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
-            // Since nums[i] <= 100, boolean array of size 101 tracks visited elements
             vector<bool> check(101, false);
             int distinct = 0;
 
