@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0912-sort-an-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1254-number-of-closed-islands](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1331-rank-transform-of-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0542-01-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0785-is-graph-bipartite) |
 | [1096-brace-expansion-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2685-count-the-number-of-complete-components) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
