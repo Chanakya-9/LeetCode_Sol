@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0628-maximum-product-of-three-numbers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0912-sort-an-array) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0877-stone-game) |
