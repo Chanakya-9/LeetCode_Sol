@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1406-stone-game-iii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -729,4 +732,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Chanakya-9/LeetCode_Sol/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
